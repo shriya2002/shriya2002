@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shriya2002
+- 👋 Hi, I’m Shriya
 - 👀 I’m interested in programming and developing full stack applications 
 - 🌱 I’m currently learning MERN stack
 - 💞️ I’m looking to collaborate on 
